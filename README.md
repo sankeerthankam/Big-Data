@@ -1,5 +1,5 @@
 # Big-Data
-### 1. [Python Essentials] 
+1. [Python Essentials] 
 ### 2. Big Data Hadoop 
 ### 3. Apache Spark and Scala Certification 
 ### 4. Apache Cassandra 
