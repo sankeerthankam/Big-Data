@@ -1,3 +1,3 @@
 # 1. Python Essentials
 
-This repository contains Python Essentials exercises for `Big Data`.
+This repository contains Python Essential Challenges for `Big Data`.
